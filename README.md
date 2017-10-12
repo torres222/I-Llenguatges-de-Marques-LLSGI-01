@@ -23,6 +23,12 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
  [3]: https://www.google.es/
  
  
- **Esto es un ejemplo de negrita,**
- *esto cursiva,
+ **Esto es un ejemplo de texto en negrita,**
+ *esto en cursiva
  ***y finálmente esto es negrita y cursiva***
+ 
+ 
+ ![Imagen 1][1]  ![Imagen 2][2]
+
+ [1]: https://thumbs.dreamstime.com/z/cuaderno-y-l%C3%A1piz-12312352.jpg
+ [2]: pictures/scaphandre.png "scaphandre"
