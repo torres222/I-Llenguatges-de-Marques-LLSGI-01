@@ -21,3 +21,8 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
  [1]: http://fpadistancia.caib.es/
  [2]: https://github.com/torres222
  [3]: https://www.google.es/
+ 
+ 
+ **Esto es un ejemplo de negrita,**
+ *esto cursiva,
+ ***y finálmente esto es negrita y cursiva***
