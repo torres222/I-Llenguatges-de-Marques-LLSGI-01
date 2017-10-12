@@ -16,8 +16,8 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
     2. Este es el segundo elemento de la lista ordenada anidada
     
     
-    [Enlace 1: Plataforma FP Distancia Caib][1], [Enlace 2][2], [Enlace 3: Google][3]
+    [Enlace 1: Plataforma FP Distancia Caib][1], [Enlace 3: Googled][2], [Enlace 3: Google][3]
 
  [1]: http://fpadistancia.caib.es/
- [2]: http://joedicastro.com/consejos "Consejos"
+ [2]: https://github.com/torres222
  [3]: https://www.google.es/
