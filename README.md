@@ -6,8 +6,8 @@ Esto es un TITULO 2
 ### Esto es un TITULO 3
 
 
-Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
 
+Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
 1. Esto es una lista ordenada
 2. Segundo elemento de la lista ordenada
     1. Esta es una lista ordenada anidada dentro de otra
@@ -16,11 +16,12 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
     2. Este es el segundo elemento de la lista ordenada anidada
     
     
+    
     [Enlace 1: Plataforma FP Distancia Caib][1], [Enlace 3: Github Tarea 01][2], [Enlace 3: Google][3]
-
  [1]: http://fpadistancia.caib.es/
  [2]: https://github.com/torres222
  [3]: https://www.google.es/
+ 
  
  
  **Esto es un ejemplo de texto en negrita,**
@@ -28,8 +29,6 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
  ***y finálmente esto es negrita y cursiva***
  
  
- [1]: https://www.a-alvarez.com/productsimages/ordenador-cressi-newton-negro-b115743.jpg/450/fill/ffffff'
- [2]: pictures/scaphandre.png "scaphandre"
  
  Abajo vemos imagen insertada mediante enlace:
  ![Enlace imagen](http://tecnonauta.net/wp-content/uploads/sites/12/2016/10/ordenador-zombi.jpg)
