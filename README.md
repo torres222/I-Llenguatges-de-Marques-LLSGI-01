@@ -20,6 +20,10 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
  Enlace 1 Plataforma FP Distancia Caib:
  http://fpadistancia.caib.es/
  ***
+ ***
+ ***
+ ***
+ ***
  Enlace 2 Github Tarea 01:
  https://github.com/torres222
  ***
@@ -40,9 +44,4 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
  
  
  
-  Here's [a link to something else][another place].
-     Here's [yet another link][another-link].
-     And now back to [the first link][another place].
-
-     [another place]: www.github.com
-     [another-link]: www.google.com
+ 
