@@ -36,3 +36,13 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
  
  Abajo vemos imagen insertada mediante enlace:
  ![Enlace imagen](http://tecnonauta.net/wp-content/uploads/sites/12/2016/10/ordenador-zombi.jpg)
+ 
+ 
+ 
+ 
+  Here's [a link to something else][another place].
+     Here's [yet another link][another-link].
+     And now back to [the first link][another place].
+
+     [another place]: www.github.com
+     [another-link]: www.google.com
