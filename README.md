@@ -25,7 +25,7 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
  
  
  **Esto es un ejemplo de texto en negrita,**
- *esto en cursiva
+ *esto en cursiva*
  ***y finálmente esto es negrita y cursiva***
  
  
