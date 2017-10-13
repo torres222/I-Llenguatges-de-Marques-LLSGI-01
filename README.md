@@ -28,8 +28,6 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
  ***y finálmente esto es negrita y cursiva***
  
  
- ![Imagen 1][1]  ![Imagen 2][2]
-
  [1]: https://www.a-alvarez.com/productsimages/ordenador-cressi-newton-negro-b115743.jpg/450/fill/ffffff'
  [2]: pictures/scaphandre.png "scaphandre"
  
