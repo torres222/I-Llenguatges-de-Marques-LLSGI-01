@@ -30,5 +30,8 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
  
  ![Imagen 1][1]  ![Imagen 2][2]
 
- [1]: https://thumbs.dreamstime.com/z/cuaderno-y-l%C3%A1piz-12312352.jpg
+ [1]: https://www.a-alvarez.com/productsimages/ordenador-cressi-newton-negro-b115743.jpg/450/fill/ffffff'
  [2]: pictures/scaphandre.png "scaphandre"
+ 
+ Abajo vemos imagen insertada mediante enlace:
+ !(http://tecnonauta.net/wp-content/uploads/sites/12/2016/10/ordenador-zombi.jpg)
