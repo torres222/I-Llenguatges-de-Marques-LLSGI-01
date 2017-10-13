@@ -17,7 +17,7 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
     
     
     
-    [Enlace 1: Plataforma FP Distancia Caib][1], [Enlace 3: Github Tarea 01][2], [Enlace 3: Google][3]
+    [Enlace 1: Plataforma FP Distancia Caib][1], [Enlace 2: Github Tarea 01][2], [Enlace 3: Google][3]
  [1]: http://fpadistancia.caib.es/
  [2]: https://github.com/torres222
  [3]: https://www.google.es/
