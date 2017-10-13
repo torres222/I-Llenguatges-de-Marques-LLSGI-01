@@ -19,24 +19,22 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
     
  Enlace 1 Plataforma FP Distancia Caib:
  http://fpadistancia.caib.es/
+ 
  ***
- ***
- ***
- ***
- ***
+
  Enlace 2 Github Tarea 01:
  https://github.com/torres222
  ***
  Enlace 3 Google:
  https://www.google.es/
  
- 
+ ***
  
  **Esto es un ejemplo de texto en negrita,**
  *esto en cursiva*
  ***y finálmente esto es negrita y cursiva***
  
- 
+ ***
  
  Abajo vemos imagen insertada mediante enlace:
  ![Enlace imagen](http://tecnonauta.net/wp-content/uploads/sites/12/2016/10/ordenador-zombi.jpg)
