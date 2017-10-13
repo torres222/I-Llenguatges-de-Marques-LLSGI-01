@@ -34,4 +34,4 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
  [2]: pictures/scaphandre.png "scaphandre"
  
  Abajo vemos imagen insertada mediante enlace:
- !(http://tecnonauta.net/wp-content/uploads/sites/12/2016/10/ordenador-zombi.jpg)
+ ![Enlace imagen](http://tecnonauta.net/wp-content/uploads/sites/12/2016/10/ordenador-zombi.jpg)
